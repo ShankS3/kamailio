@@ -1,0 +1,23 @@
+#semiCircle {
+  width: 24px;
+  height: 12px;
+  background-color: #DEE0EB;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+  border: 2px solid #DEE0EB;
+  border-bottom: 0;
+  z-index: 2;
+  cursor: pointer;
+}
+
+#semiCircle > i {
+  color: #FFFFFF;
+  font-size: 14px;
+  line-height: 7px;
+  text-align: center;
+  z-index: 3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
