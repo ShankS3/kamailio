@@ -66,7 +66,7 @@ class App extends Component {
     return (
       <div className="App">
         <Row>
-          <Col md={{size: 4, offset: 4}} sm={{size: 6, offset: 3}}>
+          <Col md={{size: 4, offset: 4}} sm={{size: 6, offset: 3}} xs={{size: 10, offset: 1}}>
             <Card className="card-main">
               <CardBody className="card-overlap">
                 <h1 id="dot-left"><i class="fas fa-circle"/></h1>

@@ -21,7 +21,7 @@
   height: 87px;
   width: auto;
   margin: 0 auto;
-  z-index: 10;
+  z-index: 3;
   padding: 0;
   display: flex;
   align-items: center;
@@ -79,6 +79,7 @@
   color: #CFD2E6;
   position: absolute;
   left: 40%;
+  z-index: 3;
   -webkit-animation-name: move-left;
   -webkit-animation-duration: 8s;
   -moz-animation-name: move-left;
@@ -118,6 +119,7 @@
   color: #CFD2E6;
   position: absolute;
   right: 40%;
+  z-index: 3;
   -webkit-animation-name: move-right;
   -webkit-animation-duration: 8s;
   -moz-animation-name: move-right;
