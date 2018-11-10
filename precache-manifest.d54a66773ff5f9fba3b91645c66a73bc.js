@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/kamailio/static/css/1.44d710ae.chunk.css"
   },
   {
-    "revision": "3b57ebf41e9409a93aa114993268559c",
+    "revision": "e4bc56707783d4e7150b76095354dfdd",
     "url": "/kamailio/index.html"
   }
 ];

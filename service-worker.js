@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kamailio/precache-manifest.2c7a8464ac3fff4cde8c9eed8b43d7af.js"
+  "/kamailio/precache-manifest.d54a66773ff5f9fba3b91645c66a73bc.js"
 );
 
 workbox.clientsClaim();
